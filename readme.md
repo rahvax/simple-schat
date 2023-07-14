@@ -1,8 +1,8 @@
-* Chat with Sockets
+# Chat with Sockets
 A simple chat using C sockets, but nothing elaborate.
 
-* How to compile
+## How to compile
 [WIP]
 
-* How to use
+## How to use
 [WIP]
